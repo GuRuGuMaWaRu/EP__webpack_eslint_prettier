@@ -3,6 +3,7 @@ import { render } from 'react-dom';
 import Hello from './Hello';
 
 class App extends React.Component {
+  // console.log('wow!');
   render() {
     return (
       <div>
